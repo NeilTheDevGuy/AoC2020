@@ -6,7 +6,7 @@ namespace AoC2020
     {
         static void Main(string[] args)
         {
-            var day = new Day2();
+            var day = new Day3();
             day.Run();
         }
     }
