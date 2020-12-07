@@ -29,3 +29,4 @@ C:\code\AoC\AoC2020\obj\Debug\netcoreapp3.1\AoC2020.genruntimeconfig.cache
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day2.txt
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day3.txt
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day4.txt
+C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day5.txt
