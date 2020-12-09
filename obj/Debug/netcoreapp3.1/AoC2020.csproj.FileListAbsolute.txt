@@ -33,3 +33,4 @@ C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day5.txt
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day6.txt
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day7.txt
 C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day8.txt
+C:\code\AoC\AoC2020\bin\Debug\netcoreapp3.1\Input\Day9.txt
